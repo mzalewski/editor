@@ -1,2 +1,0 @@
-# editor
-Created with CodeSandbox
